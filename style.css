@@ -1,0 +1,22 @@
+.main1{
+    border:solid 4px greenyellow;
+    border-radius:20px;
+    outline:10px red solid;
+    margin: 10% 25% 10% 25%;
+}
+.main2{
+    border:solid 4px greenyellow;
+    border-radius:20px;
+    outline:10px blueviolet solid;
+    width:50%;
+    padding:50px 10px 20px 10px;
+    margin:10% 25% 10% 30%;
+}
+.main3{
+    border:solid 4px greenyellow;
+    border-radius:20px;
+    outline:blueviolet;
+    padding:20px;
+    text-align:center;
+    margin:50px 10px 20px 10px;
+}
